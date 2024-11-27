@@ -25,3 +25,6 @@
    {
      "inputs": "Un paisaje futurista con árboles de neón y cielos rojos"
    }
+
+
+2.  **Recibido**  Con texto 
